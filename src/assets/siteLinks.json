@@ -18,5 +18,15 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.yonagi04.cn/"
+  },
+  {
+    "icon": "Tools",
+    "name": "常用工具",
+    "link": "https://tools.yonagi04.cn/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "小游戏",
+    "link": "https://game.yonagi04.cn/"
   }
 ]
